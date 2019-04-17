@@ -114,7 +114,7 @@ test/cache/*
 
 /doc/doxygen/
 
-libxpchainconsensus.pc
+libbitcoinconsensus.pc
 contrib/devtools/split-debug.sh
 
 docker-compose.yml
